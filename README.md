@@ -10,7 +10,7 @@ Open a command line in the project folder and type:
 ```bash
 npm i axios
 ```
-then,
+then
 ```bash
 node DiscordStatus.js
 ```
