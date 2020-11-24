@@ -14,6 +14,7 @@ then
 ```bash
 node DiscordStatus.js
 ```
+## How does it work?
  Open the text.txt file.
 ```txt
 time (time between each status in ms)
