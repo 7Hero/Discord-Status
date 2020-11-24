@@ -8,7 +8,10 @@
 Open a command line in the project folder and type:
 
 ```bash
-npm install
+npm i axios
+```
+then,
+```bash
 node DiscordStatus.js
 ```
  Open the text.txt file.
