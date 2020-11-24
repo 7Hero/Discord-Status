@@ -8,6 +8,7 @@
 Open a command line in the project folder and type:
 
 ```bash
+npm install
 node DiscordStatus.js
 ```
  Open the text.txt file.
