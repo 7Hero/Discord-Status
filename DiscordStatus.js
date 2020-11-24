@@ -1,7 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-// const api = require("windows-api-show-window");
-// api.hideCurrentProcessWindow().then(() => {}).catch(err => {});
+
 function changeStatus(str, auth) {
   axios.default.patch(
     "https://discordapp.com/api/v6/users/@me/settings",
