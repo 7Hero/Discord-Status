@@ -1,5 +1,5 @@
 # Discord-Status
-Automated status changer.\n
+Automated status changer.
 #How it works?
 Open the text.txt file.
 First line represent the time between each status in ms
