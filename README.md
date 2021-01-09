@@ -1,6 +1,6 @@
 # Automated status changer.
 
-![](https://i.gyazo.com/fd701c6f9def59b80accf3d03afd3047.mp4)
+![](https://im7.ezgif.com/tmp/ezgif-7-bc593ad7d01e.gif)
 ## Requirements
 
 [-Node.js](https://nodejs.org/en/)
